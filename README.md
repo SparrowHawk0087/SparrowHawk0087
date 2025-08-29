@@ -52,5 +52,11 @@ I am an Android developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### :fire: My Stats :
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SparrowHawk0087&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SparrowHawk0087&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparrowHawk0087&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SparrowHawk0087&theme=github-dark" />
+</p>
+
+
