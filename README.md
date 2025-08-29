@@ -28,7 +28,7 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Android developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am an Android developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m working as a Android developer and contributing to frontend and backend for building applications.
 - :seedling: Exploring modern practices in development mobile applications.
 - :zap: In my free time, I solve problems on LeetCode.
